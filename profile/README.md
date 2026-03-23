@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ataraxia-labs-ai/verdicto/main/assets/logos/ataraxia_light.png" alt="Ataraxia Labs" width="360">
+<img src="[https://raw.githubusercontent.com/ataraxia-labs-ai/verdicto/main/assets/logos/ataraxia_light.png" alt="Ataraxia Labs](https://raw.githubusercontent.com/ataraxia-labs-ai/.github/main/assets/ataraxia_light.png)" width="360">
 
 <br><br>
 
